@@ -289,7 +289,6 @@ hr {
   transition-duration: 0.3s;
 }
 .hvr-icon-pop:before {
-  content: "\f1cb";
   position: absolute;
   right: 1.5em;
   padding: 0 1px;
